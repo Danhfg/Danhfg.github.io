@@ -38601,57 +38601,57 @@ c9=new Z.abM(a1).$0()
 if(d0.c.h(0,b5)!=null&&J.P(d0.c.h(0,b5),"H"))j=C.A
 else j=d0.c.h(0,b5)==null?C.m:C.x
 k=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,j,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),k,S.hP(B.eJ(a2,L.dj(C.aO,a2,a2),a2,a2),"mutationassessor.org/"))
-j=L.N("Fathmm-XF coding:",a2,a2,a2,a2,a2,a2)
+j=L.N("Preditor Fathmm-XF coding:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abu(a1).$0()
 if(d0.c.h(0,b6)!=null&&J.P(d0.c.h(0,b6),a4))i=C.A
 else i=d0.c.h(0,b6)==null?C.m:C.x
 j=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,i,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),j,a2)
-i=L.N("Fathmm-MKL coding:",a2,a2,a2,a2,a2,a2)
+i=L.N("Preditor Fathmm-MKL coding:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abv(a1).$0()
 if(d0.c.h(0,b7)!=null&&J.P(d0.c.h(0,b7),a4))h=C.A
 else h=d0.c.h(0,b7)==null?C.m:C.x
 i=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,h,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),i,a2)
-h=L.N("Aloft:",a2,a2,a2,a2,a2,a2)
+h=L.N("Preditor Aloft:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abw(a1).$0()
 if(d0.c.h(0,b8)!=null&&J.P(d0.c.h(0,b8),a4))g=C.A
 else g=d0.c.h(0,b8)==null?C.m:C.x
 h=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,g,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),h,a2)
-g=L.N("LIST-S2:",a2,a2,a2,a2,a2,a2)
+g=L.N("Preditor LIST-S2:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abx(a1).$0()
 if(d0.c.h(0,b9)!=null&&J.P(d0.c.h(0,b9),a4))f=C.A
 else f=d0.c.h(0,b9)==null?C.m:C.x
 g=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,f,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),g,a2)
-f=L.N("Clinpred:",a2,a2,a2,a2,a2,a2)
+f=L.N("Preditor Clinpred:",a2,a2,a2,a2,a2,a2)
 c9=new Z.aby(a1).$0()
 if(d0.c.h(0,c0)!=null&&J.P(d0.c.h(0,c0),a4))e=C.A
 else e=d0.c.h(0,c0)==null?C.m:C.x
 f=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,e,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),f,a2)
-e=L.N("BayesDel noAF:",a2,a2,a2,a2,a2,a2)
+e=L.N("Preditor BayesDel noAF:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abz(a1).$0()
 if(d0.c.h(0,c1)!=null&&J.P(d0.c.h(0,c1),a4))d=C.A
 else d=d0.c.h(0,c1)==null?C.m:C.x
 e=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,d,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),e,a2)
-d=L.N("BayesDel addAF:",a2,a2,a2,a2,a2,a2)
+d=L.N("Preditor BayesDel addAF:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abA(a1).$0()
 if(d0.c.h(0,c2)!=null&&J.P(d0.c.h(0,c2),a4))c=C.A
 else c=d0.c.h(0,c2)==null?C.m:C.x
 d=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,c,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),d,a2)
-c=L.N("DEOGEN2:",a2,a2,a2,a2,a2,a2)
+c=L.N("Preditor DEOGEN2:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abB(a1).$0()
 if(d0.c.h(0,c3)!=null&&J.P(d0.c.h(0,c3),a4))b=C.A
 else b=d0.c.h(0,c3)==null?C.m:C.x
 c=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,b,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),c,a2)
-b=L.N("PrimateAI:",a2,a2,a2,a2,a2,a2)
+b=L.N("Preditor PrimateAI:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abC(a1).$0()
 if(d0.c.h(0,c4)!=null&&J.P(d0.c.h(0,c4),a4))a=C.A
 else a=d0.c.h(0,c4)==null?C.m:C.x
 b=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,a,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),b,a2)
-a=L.N("M-CAP:",a2,a2,a2,a2,a2,a2)
+a=L.N("Preditor M-CAP:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abD(a1).$0()
 if(d0.c.h(0,c5)!=null&&J.P(d0.c.h(0,c5),a4))a0=C.A
 else a0=d0.c.h(0,c5)==null?C.m:C.x
 a=Q.bb(a2,a2,L.N(c9,a2,a2,a2,A.af(a2,a2,a0,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2),a2,a2),a,a2)
-a0=L.N("MetaLR:",a2,a2,a2,a2,a2,a2)
+a0=L.N("Preditor MetaLR:",a2,a2,a2,a2,a2,a2)
 c9=new Z.abF(a1).$0()
 if(d0.c.h(0,c6)!=null&&J.P(d0.c.h(0,c6),a4))d0=C.A
 else d0=d0.c.h(0,c6)==null?C.m:C.x
