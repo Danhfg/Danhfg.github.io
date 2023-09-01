@@ -1,0 +1,80 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+.app-screenshots {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.screenshot {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .app-screenshots {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #00A0D1;
+}
+
+header {
+    background-color: #03A9F4;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #03A9F4;
+    color: white;
+    padding: 1rem;
+}
+.logo img {
+    max-width: 50px; /* Defina o tamanho máximo desejado em pixels */
+    height: auto;
+}
